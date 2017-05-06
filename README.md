@@ -4,8 +4,11 @@ This is the assignment repository for Georgia Tech CS7641 Machine Learning.
 
 
 Assignment 1 Phishing Website and Letter Recognition using Supervised Learning
+
 Assignment 2 Study on Randomized Optimization
+
 Assignment 3 Study on Unsupervised Learning
+
 Assignment 4 Study Markov Decision Process Problems using Reinforcement Learning
 
 
